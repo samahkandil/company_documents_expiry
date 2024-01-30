@@ -12,6 +12,8 @@
     'company': 'samah kandil',
     'maintainer': 'samah kandil',
     'website': "https://www.linkedin.com/in/samah-kandil-odoo/",
+    'images': ['static/description/img1.jpg'],
+
     'depends': ['base', 'contacts',],
     'data': [
         'security/ir.model.access.csv',
